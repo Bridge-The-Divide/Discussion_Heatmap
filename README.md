@@ -7,4 +7,4 @@ On mouseover, you immediately get a summary of the discussion which might result
 
 This might be another tool for crafting better cooperative texts and to ensure better understanding of the other side.
 
-Add your ideas and thoughts here ...
+Please use our [Wiki](https://github.com/Bridge-The-Divide/Discussion_Heatmap/wiki) for your thoughts and ideas!
